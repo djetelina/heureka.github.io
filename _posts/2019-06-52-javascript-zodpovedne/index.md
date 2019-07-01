@@ -33,9 +33,9 @@ if ('fetch' in window) {
 
 ## Skuteční uživatelé
 
-Když už víme, jak se ptát, je třeba rozhodnout, kde udělat onu dělící čáru. Zvolíme sadu vlastností, přes které „nejede vlak“ — prohlížeče, které testem neprojdou, obdrží sice základní, ale stále užitečnou verzi bez JavaScriptu. V tuto chvíli je nutné použít nějakou formu webové analytiky, zhodnotit naše skutečné uživatele z pohledu prostředí (tedy prohlížeče, zařízení a operačního systému) a rozhodnout se na základě měřitelných dat. Pokud půlka našich uživatelů používá Internet Explorer 8, volíme přirozeně jiný postup, než pokud je takových uživatelů pár promile.
+Když už víme, jak se ptát, je třeba rozhodnout, kde udělat onu dělicí čáru. Zvolíme sadu vlastností, přes které „nejede vlak“ — prohlížeče, které testem neprojdou, obdrží sice základní, ale stále užitečnou verzi bez JavaScriptu. V tuto chvíli je nutné použít nějakou formu webové analytiky, zhodnotit naše skutečné uživatele z pohledu prostředí (tedy prohlížeče, zařízení a operačního systému) a rozhodnout se na základě měřitelných dat. Pokud půlka našich uživatelů používá Internet Explorer 8, volíme přirozeně jiný postup, než pokud je takových uživatelů pár promile.
 
-Jaké vlastnosti zvolit? Nejlepší je vybrat ty, bez kterých se neobejdeme a jejichž absenci nechceme řešit pomocí jiných metod jako jsou *polyfilly* (k těm později).
+Jaké vlastnosti zvolit? Nejlepší je vybrat ty, bez kterých se neobejdeme a jejichž absenci nechceme řešit pomocí jiných metod, jako jsou *polyfilly* (k těm později).
 
 - `querySelector` (✝ *Internet Explorer 7*)
 - `addEventListener` (✝ *Internet Explorer 8*)
@@ -43,7 +43,7 @@ Jaké vlastnosti zvolit? Nejlepší je vybrat ty, bez kterých se neobejdeme a j
 - `Object.assign` (✝ *Internet Explorer 11*)
 - `localStorage` (✝ *Opera Mini*)
 
-Máme-li jasno v cílové skupině, v naší aplikaci (nazvěme ji `app.js`) navrch přidáme jednoduchou podmínku, která ověří potřebné vlasnosti. V případě selhání bez otálení ukončíme vykonávání skriptu.
+Máme-li jasno v cílové skupině, v naší aplikaci (nazvěme ji `app.js`) navrch přidáme jednoduchou podmínku, která ověří potřebné vlastnosti. V případě selhání bez otálení ukončíme vykonávání skriptu.
 
 ```js
 if (

@@ -4,8 +4,8 @@ title: "Jak na JavaScript: podpora prohlížečů"
 permalink: /podpora-prohlizecu/
 date: 2019-07-15 09:35:01 +0200
 author: Adam Havel
-tags: frontend web
-categories: [blog]
+tags: frontend web jaknajavascript javascript
+categories: [blog, kod]
 imageUrl: /assets/podpora-prohlizecu/thumb.jpg
 ---
 

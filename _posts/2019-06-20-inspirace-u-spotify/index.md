@@ -5,7 +5,7 @@ permalink: /inspirovali-jsme-se-u-spotify/
 date: 2019-06-20 10:02:00 +0200
 author: Michal Humpula
 tags: architektura workshop
-categories: [blog, kod]
+categories: [blog]
 imageUrl: /assets/inspirace-u-spotify/workshop-spotify-03.JPG
 ---
 

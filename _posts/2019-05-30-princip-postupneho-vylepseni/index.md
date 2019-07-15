@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Princip postupného vylepšení"
+title: "Jak na JavaScript: princip postupného vylepšení"
 permalink: /princip-postupneho-vylepseni/
 date: 2019-06-17 10:02:00 +0200
 author: Adam Havel
-tags: frontend web
-categories: [blog]
+tags: frontend web jaknajavascript javascript
+categories: [blog, kod]
 imageUrl: /assets/princip-postupneho-vylepseni/thumb.jpg
 ---
 

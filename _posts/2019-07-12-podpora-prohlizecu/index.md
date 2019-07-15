@@ -2,7 +2,7 @@
 layout: post
 title: "Jak na JavaScript: podpora prohlížečů"
 permalink: /podpora-prohlizecu/
-date: 2019-07-12 08:00:00 +0200
+date: 2019-07-15 09:35:01 +0200
 author: Adam Havel
 tags: frontend web
 categories: [blog]

@@ -2,10 +2,11 @@
 layout: post
 title: "Co dělat na Java konferenci, když vás Java nezajímá"
 permalink: /devoxx-pl-2019/
-date: 2019-07-17 09:00:00 +0200
+date: 2019-07-22 12:34:00 +0200
 author: Honza Haering
 tags: [konference, devoxx]
 categories: [blog, meetupy_a_konference]
+imageUrl: /assets/devoxx-pl-2019/ICE_Krakov.jpg
 ---
 
 V Krakově na [Devoxx Poland 2019](https://www.devoxx.pl/) jsem si potvrdil, že když se konference o Javě udělá dobře, naprosto se na ní neztratí ani člověk, který o Javě neví o moc víc, než že dostala jméno podle JavaScriptu.
@@ -57,7 +58,7 @@ Zajímavé, ale vlastně ne moc překvapivé, bylo zjištění, že produktově 
 ## Jak se krájí na frontendu
 
 David Leitner se v přednášce [Micro Frontends – a Strive for Fully Verticalized](https://speakerdeck.com/duffleit/microfrontends-f5b07c7f-392b-4e73-b788-2806ba7341d3) zabýval tématem, které také hýbe Heurekou – aplikací principu mikroslužeb na frontend, neboli mikrofrontendy.
-V zásadě shrnul 3 existují možnosti, jak integrovat několik SPA aplikací do jedné stránky:
+V zásadě shrnul 3 existující možnosti, jak integrovat několik SPA aplikací do jedné stránky:
 - build time integration ([monorepo](https://medium.com/@brockreece/from-monolith-to-monorepo-19d78ffe9175)) 
 - server side integration – to je cesta po které jsme se vydali my s naší vlastní integrační proxy, ale existují i opensource řešení jako [Mosaic](https://www.mosaic9.org/)
 - runtime integration – neboli poskládání všeho v prohlížeči. Jedním ze zmiňovaných nástrojů je [singl-spa](https://single-spa.js.org/). Jako prerekvizitu pro tento způsob integrace webu David zmínil metodologii [Immutable Web Apps](https://immutablewebapps.org/), což je v podstatě rozšíření myšlenek [Twelve-Factor App](https://12factor.net/) do světa frontendu.

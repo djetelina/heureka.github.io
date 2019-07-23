@@ -10,69 +10,35 @@ permalink: /volne-zidle/
         <h1 class="site-page__title">
             Zaber si volnou židli!
         </h1>
+
         <p class="site-page__description">
             Bavilo by tě uplatnit svůj talent na službě, kterou lidi znají a která má opravdu smysl? Chceš mít možnost
             implementovat nové sexy technologie do reálně fungující aplikace? Hladovíš po rozvoji a hledáš firmu, která
             ti ho umožní? Jsou ti startupy malé a korporáty velké? Tak to nejspíš držíme místo právě tobě! Vyber si
             příležitost a ozvi se!
         </p>
-    </div>
 
-    {% include site-separator.html %}
-    <div class="page-blog">
-        <ul class="page-blog__post-list">
-            {% for post in site.categories.recruitment %}
+        <ul class="page-career__list">
             <li class="page-blog__post-item">
-                    
                 <h2 class="page-blog__post-title">
-                    <a class="post-item__link" href="{{ post.url | prepend: site.baseurl }}">
-                        {{ post.title }}
+                    <a class="post-item__link" href="https://onas.heureka.cz/oddeleni-vyvoj">
+                        Volné židle do vývoje
                     </a>
                 </h2>
-    
-                <p class="page-blog__post-excerpt">
-                    {{ post.excerpt | strip_html }}
-    
-                    {% for tag in post.tags %}
-                    <span class="page-blog__post-tag">
-                        <a href="/tagy#{{ tag | cgi_escape }}">
-                            #{{ tag }}
-                        </a>
-                    </span>
-                    {% endfor %}
-                </p>
             </li>
-            {% if forloop.last == false %}
-            {% include site-separator.html type="list" align="left" %}
-            {% endif %}
-    
-            {% endfor %}
+
+            <li class="page-blog__post-item">
+                <h2 class="page-blog__post-title">
+                    <a class="post-item__link" href="https://onas.heureka.cz/produktove-oddeleni">
+                        Volné židle do produktu
+                    </a>
+                </h2>
+            </li>
         </ul>
-    </div>
 
-    <div class="page-career__list">
-        {% for job in site.data.career %}
-        <div class="page-career__item">
-            <div class="page-career__title">
-                {{ job.title }}
-            </div>
-            <div class="page-career__type">
-                {{ job.type }}
-            </div>
-            <div class="page-career__place">
-                {{ job.place }}
-            </div>
-            <div class="page-career__link">
-                <a href="{{ job.link }}" target="_blank">
-                    Chci vědět víc
-                </a>
-            </div>
-        </div>
-        {% if forloop.last == false %}
-        {% include site-separator.html type="condensed" %}
-        {% endif %}
-
-        {% endfor %}
+        <p class="site-page__description">
+            Volné pozice najdeš v dolní části detailu oddělení.
+        </p>                
     </div>
 
     {% include site-separator.html %}

@@ -2,14 +2,14 @@
 layout: post
 title: "GOTO Amsterdam 2019"
 permalink: /goto-amsterdam-2019/
-date: 2019-07-26 15:00:00 +0200
+date: 2019-07-29 9:21:10 +0200
 author: Jan Klacek
 tags: [konference, goto, api]
 categories: [blog, meetupy_a_konference]
 imageUrl: /assets/goto-ams-2019/goto_ams.jpg
 ---
 
-Město plné lehkých drog a lehkých žen se v půlce června proměnilo v centrum tisícovky softwarových vývojářů - aspoň 
+Město plné lehkých drog a lehkých žen se v půlce června proměnilo v centrum tisícovky softwarových vývojářů – aspoň 
 tedy kongresové centrum Beurs van Berlage. Konala se tam konference GOTO, která byla našlapaná více než 60 přednáškami. 
 Novinky ze světa umělé inteligence, strojového učení, scrumu a vyvíjení aplikací jsem si nemohl nechat ujít, a proto 
 jsem se tam vydal.

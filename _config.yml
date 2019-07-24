@@ -11,11 +11,6 @@ github_username: heureka
 youtube_username: heureka
 instagram_username: heurekadevs
 
-# Emailing via getsimpleform.com
-email_token_about_us: 491e7e7ec2427a434fff3e715a8c20f2
-email_token_academy: 491e7e7ec2427a434fff3e715a8c20f2
-email_token_career: 491e7e7ec2427a434fff3e715a8c20f2
-
 # Build settings
 markdown: kramdown
 

@@ -27,9 +27,7 @@ Výsledek, který nám ale otevření pražského týmu přineslo, nás jenom ut
 správným směrem! Zároveň je to příležitost ke zkušenosti, které se vám hned tak někde nedostane. A to, věřte nám, je
 něco naprosto nedocenitelného. True story.
 
-Pokud vás tyto řádky nadchly a nevyděsily, a je ve vás i kousek dobrodruha, neváhejte a checkujte inzerát pro 
-[pythoňáky]({{ site.baseurl }}{% link _posts/2018-03-12-python-vyvojar-v-plzni/index.md %}) nebo
-[frontenďáky]({{ site.baseurl }}{% link _posts/2018-03-12-frontend-vyvojar-v-plzni/index.md %}) a nebo rovnou pište na
+Pokud vás tyto řádky nadchly a nevyděsily, a je ve vás i kousek dobrodruha, neváhejte a checkujte [inzeráty]({{ site.baseurl }}{% link _pages/volne-zidle/index.html %}) a nebo rovnou pište na 
 [vit.novak@heureka.cz](mailto:vit.novak@heureka.cz "poslat email"), kde s vámi Víťa dohodne podrobnosti. My se na tuhle
 challenge dost těšíme!
 

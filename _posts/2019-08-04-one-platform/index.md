@@ -2,7 +2,7 @@
 layout: post
 title: "#MěnímeHeureku - chystáme mezinárodní #OnePlatform"
 permalink: /menimeheureku-chystame-mezinarodni-oneplatform/
-date: 2019-08-04 8:21:10 +0200
+date: 2019-08-05 8:21:10 +0200
 author: Lukáš Putna
 tags: [MěnímeHeureku, OnePlatform, microservices, architektura, backend, okr]
 categories: [blog, kod]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#MěnímeHeureku - Jak jsme si rozdělili produktové oblasti do týmů?"
-permalink: /menimeheureku-jak-jsme-si-rozdelili-produktove-oblasti-do-tymu/
+permalink: /jak-jsme-si-rozdelili-produktove-oblasti-do-tymu/
 date: 2019-08-19 13:00:00 +0200
 author: Pavel Škoda
 tags: [MěnímeHeureku, OnePlatform, microservices, architektura, vývoj, produkt]
@@ -44,6 +44,5 @@ Není nutné, aby každý člen rozuměl od operations přes databáze, backend 
 Samozřejmě není vše jen růžové. Bylo například potřeba, aby si nové týmy navzájem předali služby a aplikace, které předtím v mnoha případech vůbec nevyvíjeli. Navíc nám tu pořád straší jednu velká monolitická aplikace, která pokrývá více oblastí, takže takřka všechny týmy sdílí jednu legacy codebase a někdy si sahají pod ruce.
 
 Už to ale praktikujeme více než rok, a po té co si vše sedlo můžeme s jistotou říct, že není potřeba zavírat frontenďáky do jedné a backenďáky do druhé místnosti. Oni sice většinou každý vládnou jiným jazykem, ale nakonec se vždycky domluví.
-
 
 ![Workshop, Liberec 2018](/assets/jak-jsme-si-rozdelili-produkt/workshop.jpg)

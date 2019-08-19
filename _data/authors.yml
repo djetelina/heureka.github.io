@@ -1,15 +1,15 @@
 Vít Novák:
   name: Vít Novák
-  bio: Víťa pamatuje v Heurece již mnoho zim. Zkušenosti sbíral na několika pozicích, zahrnujících samozřejmě vývojařinu, nebo třeba role spojené se scrumem. Dneska se s ním velice pravděpodobně setkáte, budete-li se ucházet o místo vývojáře, protože má na starosti jejich nábor.
+  bio: Víťa pamatuje v Heurece již mnoho zim. Zkušenosti sbíral na několika pozicích, zahrnujících samozřejmě i vývojařinu, nebo třeba role spojené s náborem. Dnes se coby scrum master stará o blaho a efektivitu jednoho z týmů.
   avatar: vit-novak.png
 Lukáš Putna:
   name: Lukáš Putna
-  bio:
-  avatar:
+  bio: Lukáš je šéf vývojářů v Heurece, snaží sjednotit technologický směr s produktovou vizí Heureky. Je velkým zastáncem agilních metodik s velkým důrazem na samostatné vývojové týmy, které tímto způsobem vede.
+  avatar: lukas-putna.png
 Filip Melík:
   name: Filip Melík
-  bio:
-  avatar:
+  bio: Filip je součástí týmu, který se stará o mobilní aplikace a související mikroslužby. Věnuje se vývoji Heureka iOS appky a myslí si, že Android je děravej a pro socky. Má rád čistý a přehledný kód a snaží se pasivně agresivně ostatní presvědčit, aby dělali totéž.
+  avatar: filip-melik.png
 Adam Havel:
   name: Adam Havel
   bio:
@@ -20,8 +20,8 @@ Michal Humpula:
   avatar:
 David Jetelina:
   name: David Jetelina
-  bio:
-  avatar:
+  bio: David je součástí fialového (katalogového) týmu, operations guildy (“expertní skupinky”) a věčný idealista. Například si myslí, že DevOps by nikdy nemělo degradovat na speciální pozici.
+  avatar: david-jetelina.png
 Jiří Vích:
   name: Jiří Vích
   bio: Jirka dělá v Heurece Scrum Mastera už od roku 2014. Stará se o dva liberecké týmy a dohlíží, aby všechno běželo hladce. Kromě toho spolu s týmem Scrum Masterů neustále zlepšuje procesy. Občas něco ublogne nebo tvítne.
@@ -36,16 +36,16 @@ David Příplata:
   avatar:
 Jaroslav Jakoubě:
   name: Jarda Jakoubě
-  bio:
-  avatar:
+  bio: Jarda je součástí týmu, který se stará o naše mobilní aplikace a věci okolo nich (api, správu notifikací, související mikroslužby atp.). Je to sice Androiďák, ale neštítí se dotknout ani iOS. 
+  avatar: jarda-jakoube.png
 Honza Haering:
   name: Honza Haering
   bio:
   avatar:
 Jan Klacek:
   name: Jan Klacek
-  bio:
-  avatar:
+  bio: Kláca nastoupil do Heureky jako stážista při škole. Nyní je součástí týmu, který se stará o recenze. Je to skaut, ale k orientaci v kódu buzolu nepoužívá. Snaží se, aby v týmu panovala dobrá nálada a práce šla od ruky.
+  avatar: jan-klacek.png
 Pavel Škoda:
   name: Pavel Škoda
   bio: Pavel je v pražském vývoji už od začátku. Za tu dobu vystřídal několik týmů a nyní společně s černým týmem vyvíjí novou responzivní verzi heureky.

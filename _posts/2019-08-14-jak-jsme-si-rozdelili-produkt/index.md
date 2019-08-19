@@ -41,7 +41,7 @@ Není nutné, aby každý člen rozuměl od operations přes databáze, backend 
 
 ## Straší nám tu monolit
 
-Samozřejmě není vše jen růžové. Bylo například potřeba, aby si nové týmy navzájem předali služby a aplikace, které předtím v mnoha případech vůbec nevyvíjeli. Navíc nám tu pořád straší jednu velká monolitická aplikace, která pokrývá více oblastí, takže takřka všechny týmy sdílí jednu legacy codebase a někdy si sahají pod ruce.
+Samozřejmě není vše jen růžové. Bylo například potřeba, aby si nové týmy navzájem předali služby a aplikace, které předtím v mnoha případech vůbec nevyvíjeli. Navíc nám tu pořád straší jedna velká monolitická aplikace, která pokrývá více oblastí, takže takřka všechny týmy sdílí jednu legacy codebase a někdy si sahají pod ruce.
 
 Už to ale praktikujeme více než rok, a po té co si vše sedlo můžeme s jistotou říct, že není potřeba zavírat frontenďáky do jedné a backenďáky do druhé místnosti. Oni sice většinou každý vládnou jiným jazykem, ale nakonec se vždycky domluví.
 

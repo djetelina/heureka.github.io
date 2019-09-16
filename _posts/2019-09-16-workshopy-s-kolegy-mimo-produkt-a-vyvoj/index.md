@@ -20,10 +20,14 @@ Abychom mohli identifikovat a vyřešit reálná zadání, vymysleli jsme si tak
 
 Produktových zadání nakonec vzniklo hned několik. Smyslem celého workshopu bylo problémy pořádně prozkoumat a vlastně v ideálním případě jich co nejvíce rovnou i vyřešit. V celém procesu byli pořád zapojení lidé z contentového týmu a fungovali jako produkťáci. Odpovídali vývojářům na jejich otázky, společně hledali ta nejlepší řešení. Pojali jsme to jako scrumový mini-sprint, nechybělo review a na konci dne proběhla retrospektiva. Asi nemusíme podotýkat, že všem těmto výrazům obvykle mimo vývojovo-produktové týmy málokdo rozumí. Od začátku do konce byla celá spolupráce s týmem Contentu zajímavou výzvou a skvělou zkušeností. Pro obě strany bylo zajímavé sledovat různé způsoby myšlení a fungování na pracovním úkolu. Hledali jsme cesty, jak si zkusit porozumět. A je potřeba říci, že se to povedlo. Během jednoho dne jsme definovali a vyřešili problémy (tedy naprogramovali, či upravili nástroje), které doposud naše contentové oddělení zdržovaly.
 
+![Pracujeme!](/assets/workshopy-s-kolegy-mimo-produkt-a-vyvoj/workshop-content-1.jpg)
+
 ## Nejen prací živ je tým
 Když se zpětně podíváme na tento workshop, od běžného kancelářského dne se vlastně lišil jen drobnostmi. Hodně jsme makali. Vzali jsme na sebe role, které obvykle nemáme, protože to bylo nutné k vyřešení daných problémů. A taky je fakt, že nedílnou součástí našich workshopů je také společná starost o naše základní potřeby – někdo musí uvařit, taky musíme odpočívat, musíme se přizpůsobit vzájemným biorytmům, abychom pracovali, když na to máme všichni dost energie…
 
 Nemáme tudíž nikoho, kdo by se o nás staral, vše si řešíme sami. A tím také trénujeme lepší dělbu práce (kdo zajistí ubytování, kdo nakoupí), týmovou spolupráci (kdo, s kým a co uvaří), poznáváme se mimo-pracovně, budujeme společné zážitky a užijeme si při tom spoustu legrace. Takže i když na workshopech hodně makáme a zlepšení naší vzájemné komunikace byste mohli považovat jen za vedlejší produkt výjezdu mimo kancelář, je vlastně nedílnou součástí designu celého výjezdu.
+
+![Na podobných akcích si sami i vaříme](/assets/workshopy-s-kolegy-mimo-produkt-a-vyvoj/workshop-content-4.jpg)
 
 ## Čas jsou peníze.. a další vyřešené úkoly
 Tím nejlepším nakonec jsou hlavně výsledky, které tento (pro nás krátký) jednodenní, ale o to intenzivnější workshop oběma týmům přinesl. Nemůžeme pominout to, že se v jiném než kancelářském prostředí setkali kolegové z naprosto odlišných týmů a lokalit, a měli tak čas poznat se trochu jinak a lépe pochopit práci toho druhého.
@@ -32,6 +36,4 @@ Tím nejlepším nakonec jsou hlavně výsledky, které tento (pro nás krátký
 
 Sečteno a podtrženo, vychází nám z toho tedy, že intenzivní, tematicky zaměřené workshopy jsou efektivní. Věříme, že po této zkušenosti budou oblíbené nejen v rámci produkto-vývojových týmů (o tom posledním jsme [psali třeba tady](/homepage-hackathon/)), ale najdou své příznivce také napříč celou Heurekou. A protože máme plnou podporu od vedení, už se všichni těšíme na příští akci :)
 
-![Pracujeme!](/assets/workshopy-s-kolegy-mimo-produkt-a-vyvoj/workshop-content-1.jpg)
-![Na podobných akcích si sami i vaříme](/assets/workshopy-s-kolegy-mimo-produkt-a-vyvoj/workshop-content-4.jpg)
 ![Prezentujeme výsledky workshopu](/assets/workshopy-s-kolegy-mimo-produkt-a-vyvoj/workshop-content-3.jpg)

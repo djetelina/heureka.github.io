@@ -2,7 +2,7 @@
 layout: post
 title: "Potkávat se s odborníky z vaší bubliny se vyplácí – aneb co si odnášíme z prvního #HeurekaMeetUp"
 permalink: /co-si-odnasime-z-heurekameetup/
-date: 2019-10-08 9:04:00 +0200
+date: 2019-10-14 9:04:00 +0200
 author: Jiří Vích
 tags: MěnímeHeureku OKR microservices
 categories: [blog, meetupy_a_konference]

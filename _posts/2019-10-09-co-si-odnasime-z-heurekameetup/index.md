@@ -31,13 +31,13 @@ Bavilo mě povídat si o tom, jak jsme se naučili skládat týmy. Diskuse o tom
 
 ## Jsem hrdý na to, kam jsme se za rok a půl posunuli!
 
-Co si z celé akce odnáším? Úskalí má každý přístup práce. Jsou věci, o kterých se veřejně nemluví, ale všichni o nich ví (třeba, že přepsat celý monolit do microservices není hračka a často tak vytváříte vlastně hybridy, nebo že autonomie a svoboda s sebou nese nutnost přijmou na sebe zodpovědnost za rozhodnutí, která není pro každého). Není se tedy za co stydět, že i u nás není všechno perfektní.
+Co si z celé akce odnáším? Úskalí má každý přístup práce. Jsou věci, o kterých se veřejně nemluví, ale všichni o nich ví (třeba, že přepsat celý monolit do Microservices není hračka a často tak vytváříte vlastně hybridy, nebo že autonomie a svoboda s sebou nese nutnost přijmout na sebe zodpovědnost za rozhodnutí, která není pro každého). Není se tedy za co stydět, že i u nás není všechno perfektní.
 
 Díky #HeurekaMeetUp jsem ale o fous hrdější na to, kam se nám povedlo za rok a půl práce Heureku posunout a že můžu být součástí toho, kam máme namířeno. Celofiremní OKRka jsou už na cestě, s autonomií se učíme zacházet tak, aby nám pomáhala a nebrzdila nás. Prostě mám radost, kam se posouváme a že to, jak u nás věci jsou, je zajímavé pro lidi, kterých si na tech trhu sám vážím. 
 
 Zkrátka, ještě o nás uslyšíte! Protože #MěnímeHeureku a budeme o tom nejen psát, ale i mluvit a potkávat se. Už teď plánujeme další akce a určitě vám o nich dáme vědět. 
 
-![Prostor pro diskuzi](/assets/co-si-odnasime-z-heurekameetup/meetup01-04.jpg)
+![Děkujeme!](/assets/co-si-odnasime-z-heurekameetup/meetup01-04.jpg)
 
 ## Na závěr si neodpustím jedno poselství:
 Jestli přemýšlíte, zda se potkávat s top lidmi ze svého oboru, tak už nepřemýšlejte a dělejte to. Nejenže je vysoká pravděpodobnost, že narazíte na super lidi, ale věřím, že vás to hodně posune. Třeba jako mě v hrdosti na #HeurekaDevs.
@@ -51,3 +51,5 @@ Jestli přemýšlíte, zda se potkávat s top lidmi ze svého oboru, tak už nep
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="cs" dir="ltr">Povedená akce, díky za pozvání. 👍</p>&mdash; dataweps (@dataweps) <a href="https://twitter.com/dataweps/status/1168888133062189059?ref_src=twsrc%5Etfw">September 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {% endraw %}
+
+![Reakce](/assets/co-si-odnasime-z-heurekameetup/vicherek.png){: .center-image }

@@ -6,7 +6,7 @@ date: 2019-10-14 9:04:00 +0200
 author: Jiří Vích
 tags: MěnímeHeureku OKR microservices
 categories: [blog, meetupy_a_konference]
-imageUrl: /assets/workshopy-s-kolegy-mimo-produkt-a-vyvoj/workshop-content-1.jpg
+imageUrl: /assets/co-si-odnasime-z-heurekameetup/meetup01-02.jpg
 ---
 
 Před rokem a půl či dvěma lety jsme začali Heureku zevnitř měnit. Už jsme o tom tady na blogu psali hodně článků, takže pokud nás pravidelně čtete, víte to. Co možná nevíte je, že jsme se letos na jaře rozhodli aktivně věnovat tomu, jakou pověst má Heureka po technologické stránce. Makáme na naší prezentaci, ukazujeme mnohem víc z toho, co v produktu i vývoji děláme. A&nbsp;rozhodli jsme se nenechávat si to jen pro sebe. Na konci léta jsme se vydali s vlastní kůži na trh a uspořádali náš první (a už teď víme, že ne poslední) #HeurekaMeetUp.

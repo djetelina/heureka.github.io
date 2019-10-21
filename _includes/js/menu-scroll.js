@@ -20,7 +20,7 @@
     /**
      * Control sticky header's config
      */
-    var initHeaderConfig = function updateHeader() {
+    var initHeaderConfig = function() {
         config.menu.el = document.querySelector('.site-menu');
         config.menu.height = window.getComputedStyle(config.menu.el).getPropertyValue('height');
         config.menu.top = document.querySelector('.site-header').offsetHeight;
@@ -30,7 +30,7 @@
     /**
      * Update sticky header's position
      */
-    var updateHeaderPosition = function updateHeader() {
+    var updateHeaderPosition = function() {
         var scrollYPos = document.body.scrollTop || document.documentElement.scrollTop;
 
         if (config.menu.top <= scrollYPos) {
@@ -45,6 +45,17 @@
                 config.body.el.style.paddingTop = 0;
                 config.menu.isFixed = false;
             }
+        }
+    };
+    
+    var fixScrollIfMenuOverlapAnchor = function() {
+        if (window.location.hash) {
+            try {
+                var anchor = document.querySelector(window.location.hash);
+                if (anchor && config.menu.el.getBoundingClientRect().top === anchor.getBoundingClientRect().top) {
+                    window.scrollBy(0, -parseInt(config.menu.height));
+                } 
+            } catch (e) {}
         }
     };
 
@@ -68,6 +79,7 @@
      */
     window.addEventListener('load', function (e) {
         updateHeaderPosition();
+        fixScrollIfMenuOverlapAnchor();
     });
 
     /**

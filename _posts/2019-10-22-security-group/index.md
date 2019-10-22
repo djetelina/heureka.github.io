@@ -15,17 +15,18 @@ Guildy jsou odpovědné za technický rozvoj celého našeho stacku.‌ Každý 
 Máme tedy například:
 * **Frontend guildu**, kde se řeší, jak by měla vypadat naše frontendová codebase (například [progressive enhancement](/princip-postupneho-vylepseni/).
 * **Operations guildu**, která má pod palcem naši infrastrukturu (třeba [metriky](/metriky-metriky-metriky/)).
-* **Data guildu** která pro nás zkoumá možnosti různých databází. **QA guildu** kde se hodně řeší testování a kvalita našich produkčních aplikací.
+* **Data guildu** která pro nás zkoumá možnosti různých databází.
+* **QA guildu** kde se hodně řeší testování a kvalita našich produkčních aplikací.
 * **Security guildu** jejímž hlavním tématem je zabezpečení našich služeb.
 
 Pojďme si nyní říct, čím se zabývala **Security guilda** první kvartál své existence.
-​
+
 ## Naivní zabezpečení mikroslužeb
 
 Když začínáte s mikroslužbami, většinou je všechny zavřete do jedné společné [virtuální sítě](https://cs.wikipedia.org/wiki/VLAN) a&nbsp;autorizaci requestů necháte na vnějších službách.‌ To jsou ty, které vystavují nějaké API‌ do zbytku internetu. Ostatní služby uvnitř sítě se pak spoléhají na to, že ony „vnější“ služby odfiltrovaly cokoliv škodlivého a nezkoumají autenticitu ani autorizaci žádného požadavku.
 
 Odsunout takhle veškerou odpovědnost na okrajové služby sice ušetří vývojářům nějaký ten kód, ale má i své nevýhody. Tou největší je, že pokud někdo překoná onu vnější vrstvu, dostane přístup k celé vnitřní infrastruktuře. A protože riziko, že se to podaří není nulové, začali jsme přemýšlet jak přidat další vrstvu zabezpečení.
-​
+
 ## Více úrovní zabezpečení
 
 Klasický přístup je navrhnout nějaký interní standard zabezpečení, který poté implementujete do všech služeb.‌ V praxi však máme některé služby, kde by implementace takové věci nepřinesla žádné benefity a naopak služby, které by si zasloužily zabezpečit mnohem více než zbytek stacku.
@@ -33,7 +34,7 @@ Klasický přístup je navrhnout nějaký interní standard zabezpečení, kter�
 Například služba, která poskytuje pouze hodnocení (počty hvězdiček a recenze) produktů, což jsou veřejně dostupné údaje, asi nepotřebuje zabetonovat tak důkladně, jako služba, která spravuje účty uživatelů.
 
 Rozhodli jsme se, že **služby klasifikujeme** podle toho, jak jsou pro nás **z hlediska zabezpečení citlivé.**
-​
+
 ## Metoda klasifikace
 
 Jak ale rozhodnout která služba je z hlediska zabezpečení citlivější a která méně?‌
@@ -83,7 +84,7 @@ Vytáhli jsme si tedy entity a tabulky ze všech našich databází a začali je
 
 Není velkým překvapením, že se nám jako nejcitlivější ukázaly entity jako „Uživatel“ a „Platba“, ale mezi nejcitlivější se dostaly i některé entity, o kterých by nás dříve ani nenapadlo přemýšlet jako o potencionálně citlivých.
 
-U každé služby víme, kam a jaké má přístupy.‌ Například pokud má nějaká služba přístup do naší „velké“ monolitické databáze, má přístup pouze k některým tabulkám a my jsme schopni pomocí **priviledges** přesně určit ke kterým. Proto jsme mohli promítnout citlivost dat do jednotlivých služeb a určit tak citlivost samotných služeb.
+U každé služby víme, kam a jaké má přístupy. Například pokud má nějaká služba přístup do naší „velké“ monolitické databáze, má přístup pouze k některým tabulkám a my jsme schopni pomocí **privileges** přesně určit ke kterým. Proto jsme mohli promítnout citlivost dat do jednotlivých služeb a určit tak citlivost samotných služeb.
 
 Služby, které jen agregují data z jiných služeb, považujeme za tak citlivé, jako nejcitlivější ze služeb, na které jsou napojené.
 

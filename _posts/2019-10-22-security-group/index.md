@@ -2,10 +2,12 @@
 layout: post
 title: "Je dobré vědět, která mikroslužba pracuje s nejcitlivějšími daty"
 permalink: /ktera-mikrosluzba-pracuje-s-nejcitlivejsimi-daty/
-date: 2019-10-22 12:00:00 +0200
+date: 2019-10-24 9:35:00 +0200
 author: Pavel Škoda
 tags: backend web security
 categories: [blog, kod]
+imageUrl: /assets/security-group/security.jpg
+
 ---
 
 V Heurece smýšlíme hodně produktově a naše týmy jsou postavené kolem jednotlivých [produktových oblastí](/jak-jsme-si-rozdelili-produktove-oblasti-do-tymu/). Abychom se ale nehonili jen za vylepšováním nákupního procesu a leštěním „favorite“ tlačítka, zavedli jsme po vzoru [Spotify modelu](/inspirovali-jsme-se-u-spotify/) koncept tzv. **technických skupin**, nebo chcete-li guild.
@@ -20,6 +22,8 @@ Máme tedy například:
 * **Security guildu** jejímž hlavním tématem je zabezpečení našich služeb.
 
 Pojďme si nyní říct, čím se zabývala **Security guilda** první kvartál své existence.
+
+![Je dobré vědět, která mikroslužba pracuje s nejcitlivějšími daty](/assets/security-group/security.jpg)
 
 ## Naivní zabezpečení mikroslužeb
 
@@ -46,7 +50,7 @@ Potřebovali jsme už tedy jen metodu klasifikace citlivosti dat a když jsme se
 Vytáhli jsme si tedy entity a tabulky ze všech našich databází a začali je jednotlivě klasifikovat. Po vzoru již zmíněné [OWASP Risk Rating Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology) jsme si určili sedm pro nás důležitých kritérií. Protože v jednom člověku by se všechna naše data nedala v rozumném čase ohodnotit, nastavili jsme si základní kotvy, o které se můžeme opřít:
 
 ### 1) confidentiality - citlivost dat s ohledem na GDPR
-* 0 – veřejná data, id, ..
+* 0 – veřejná data, id, ...
 * 5 – interní, ale ne osobní
 * 9 – uživatelská data, adresy, ...
 

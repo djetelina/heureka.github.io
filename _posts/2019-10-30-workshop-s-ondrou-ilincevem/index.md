@@ -2,7 +2,7 @@
 layout: post
 title: "Uživatel není Bůh aneb workshop o CRO s&nbsp;Ondrou Ilinčevem"
 permalink: /workshop-s-ondrou-ilincevem/
-date: 2019-10-30 9:35:00 +0200
+date: 2019-11-04 9:41:09 +0200
 author: Martin Mussil
 tags: web
 categories: blog design
@@ -15,7 +15,7 @@ S celým produktovým týmem a několika dalšími zájemci z řad Heurečanů j
 Po krátkém úvodu do problematiky CRO a A/B testování jsme se vrhli na uvádění teoretických poznatků do praxe. Rovnou jsme si vyzkoušeli optimalizaci jedné z našich stránek pro e-shopy. Vezměme to pěkně popořadě.
 
 ![Ondra Illinčev](/assets/workshop-s-ondrou-ilincevem/1-indra-ilincev.jpg)
-<center><small>Ondra Illinčev je přední český expert v oblasti zvyšování a optimalizace konverzí, zlepšování uživatelské přívětivosti s ohledem na maximalizaci výnosů a zisku.</small></center>
+<i><center><small>Ondra Illinčev je přední český expert v oblasti zvyšování a optimalizace konverzí, zlepšování uživatelské přívětivosti s ohledem na maximalizaci výnosů a zisku.</small></center></i>
 
 ## Uživatel není Bůh
 Hned na začátku workshopu jsme si vyjasnili, že uživatel není Bůh a že ne všechno, co udělá radost jemu, je ku prospěchu naší firmy. To je podle mě klíčová myšlenka pro pochopení podstaty celého procesu zvyšování konverzí.
@@ -26,7 +26,7 @@ Největší část celého workshopu byla zaměřena na A/B testování, což je
 
 Rádi bychom se s vámi chtěli podělit o jasně fungující doporučení a patterny, které nezklamou, jenže chyba lávky. Do každého testu byť na reálných příkladech experimentů, které dělají ty největší společnosti, vstupuje řada proměnných, které vám jistotu dát nemohou. Takže správná odpověď je „to záleží“ na samotném produktu, na druhu byznysu, cílové skupině apod.
 	
-Žádný z výsledků testů, který kdekoliv uvidíte vám nevyjde nikdy stejně a dokonce může vyjít klidně i opačně. Na internetu najdete stovky A/B testů, kde se změnila barva tlačítka z červené na zelenou a udělalo nárůst +600 % na konverzích. No… Stejně tak, jak najdete takové testy, tak k nim už nenajdete kontext. Zkuste si to udělat to samé na webu, který je prakticky celý zelený. Buď to neudělá nic, nebo se to zhorší.
+Žádný z výsledků testů, který kdekoliv uvidíte, vám nevyjde nikdy stejně a dokonce může vyjít klidně i opačně. Na internetu najdete stovky A/B testů, kde se změnila barva tlačítka z červené na zelenou a udělalo nárůst +600 % na konverzích. No… Stejně tak, jak najdete takové testy, tak k nim už nenajdete kontext. Zkuste si to udělat to samé na webu, který je prakticky celý zelený. Buď to neudělá nic, nebo se to zhorší.
 
 Mezi odbornou veřejností jsou tyhle testy barev tlačítek ty nejzbytečnější, protože ze zkušenosti spíš vychází, že dopady jsou minimální, prakticky neměřitelné.
 

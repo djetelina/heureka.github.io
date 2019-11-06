@@ -13,7 +13,7 @@
                 </a>
             </h2>
 
-            <p class="page-blog__post-excerpt">
+            <div class="page-blog__post-excerpt">
                 {{ post.excerpt }}
 
                 {% for tag in post.tags %}
@@ -23,7 +23,7 @@
                     </a>
                 </span>
                 {% endfor %}
-            </p>
+            </div>
         </li>
         {% if forloop.last == false %}
         {% include site-separator.html type="list" align="left" %}

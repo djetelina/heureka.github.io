@@ -49,7 +49,7 @@ monitoring (pro nás potěšující, že je podporován [Prometheus](https://pro
 ## Pohled do zrcadla
 
 Co mě opravdu pobavilo, bylo zjištění, že přednáška [How to break an 18 yo monolith](https://blog.andi95.de/2019/07/devoxxpl-my-talks-and-slides/) od Andrease Bräu, se týká monolitu
-[idealo.de](https://idealo.de/), tedy německého klonu Heureky. V tamním vývoji se roky potýkali s podobnými problémy, co jsme řešili i my – odsekávání z monolitu po částech bylo pomalé a nekonečné.
+[idealo.de](https://www.idealo.de/), tedy německého klonu Heureky. V tamním vývoji se roky potýkali s podobnými problémy, co jsme řešili i my – odsekávání z monolitu po částech bylo pomalé a nekonečné.
 Až přišla loni v létě pro vývojáře spásná zpráva: Od druhé poloviny roku 2019 končí podpora hlavní databáze. Rázem byla motivace i páka na stakeholdery. Zkrátka to museli stihnout za rok.
 Vydali se cestou [Self-contained systémů](https://scs-architecture.org/), tedy autonomních aplikací, vlastněných jedním týmem. Všude, kde to je možné, se komunikuje asynchronně, synchronní API volání se nepoužívají vůbec.
 Hlavní technologie pro výměnu zpráv mezi SCS je [Apache Kafka](https://kafka.apache.org/). Podle Andreasových slov za rok s nožem na krku rozsekání starého monolitu víceméně stihli, klobouk dolů.

@@ -5,7 +5,7 @@ permalink: /ktera-mikrosluzba-pracuje-s-nejcitlivejsimi-daty/
 date: 2019-10-24 9:35:00 +0200
 author: Pavel Škoda
 tags: backend web security
-categories: [blog, kod]
+categories: [blog, kod, bezpecnost]
 imageUrl: /assets/security-group/security.jpg
 
 ---

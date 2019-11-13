@@ -2,7 +2,7 @@
 layout: post
 title: "Jak jsem hacknul DevFest"
 permalink: /jak-jsem-hacknul-devfest/
-date: 2019-11-12 16:00:00 +0200
+date: 2019-11-13 12:04:00 +0200
 author: Pavel Škoda
 tags: [konference, security, hack, devfest]
 categories: [blog, kod, bezpecnost, meetupy_a_konference, legrace]

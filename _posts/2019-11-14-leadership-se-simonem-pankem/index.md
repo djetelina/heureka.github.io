@@ -2,7 +2,7 @@
 layout: post
 title: "Kurz autentického leadershipu se Šimonem Pánkem"
 permalink: /autenticky-leadership-se-simonem-pankem/
-date: 2019-11-14 15:55:00 +0200
+date: 2019-11-19 09:30:00 +0200
 author: Ondřej Walter
 tags: [leadership]
 categories: [blog, lide]

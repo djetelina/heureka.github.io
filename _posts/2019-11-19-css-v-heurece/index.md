@@ -2,7 +2,7 @@
 layout: post
 title: "CSS v Heurece aneb Jak jsme se naučili nedělat si starosti a mít rádi kaskádu"
 permalink: /css-v-heurece/
-date: 2019-11-19 10:00:00 +0200
+date: 2019-11-25 10:36:00 +0200
 author: Adam Havel
 tags: frontend css web
 categories: [blog, kod]

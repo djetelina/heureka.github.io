@@ -21,7 +21,7 @@ Jasně, jde to dle plánu, nejprve zatemovat byznys logiku v mikroservisách a n
 
 A tohle nám zatím moc nejde, stále máme mikrofrontendy příliš fragilní. Zpomalení některých backendů teď vyvolá rachot, jako když hodíte sifonovou láhev do vany.
 
-Keep it simple. Někde stačí synchronní volání, api cally mezi službama. Naopak někde je potřeba mít kvůli rychlosti agregovaná data blízko frontendů, datové fronty a obecně CQRS architektura. Zkrátka, je to cesta. Velmi podobná cesta jako pospojovat datové služby napříč několika datacentry v Evropě. Tedy cvičíme na novou platformu nasazenou napříč několika clustery.
+Keep it simple. Někde stačí synchronní volání – api cally mezi službama. Naopak někde je potřeba mít kvůli rychlosti agregovaná data blízko frontendů, datové fronty a obecně CQRS architektura. Zkrátka, je to cesta. Velmi podobná cesta jako pospojovat datové služby napříč několika datacentry v Evropě. Tedy cvičíme na novou platformu nasazenou napříč několika clustery.
 
 ## Deployment přes několik regionů
 

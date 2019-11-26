@@ -47,7 +47,7 @@ Jednotlivé k8s nody nám běží přímo na fyzických mašinách. Bereme stroj
 
 Desítky nově vzniklých mikroservis by bylo obtížné na klasických kontejnerech udržovat a držet tempo s potřebami vývoje. Každý tým má k dispozici několik namespaců, generický pro svůj tým a jednotlivé pro [produktové oblasti](/jak-jsme-si-rozdelili-produktove-oblasti-do-tymu/), které rozvíjí. Příkladem může být ElasticSearch pro vyhledávání, který má přes 50 podů. Deploy dalších 8 ES nodů je pak otázkou několika minut.
 
-Manifesty služeb definujeme přes helm, s kterým měli vývojáři porodní bolesti, tvorba šablon v něm totiž není moc přehledná. U některých služeb, kde jsme chtěli striktně spárovat runtime s repositářema máme nasazený Flux a sealed secrets. Debugování při chybě deploymentu je tím však o trochu složitější.
+Manifesty služeb definujeme přes helm, s kterým měli vývojáři porodní bolesti, tvorba šablon v něm totiž není moc přehledná. U některých služeb, kde jsme chtěli striktně spárovat runtime s repositářema, máme nasazený Flux a sealed secrets. Debugování při chybě deploymentu je tím však o trochu složitější.
 
 ## Těšíme se na to, co ještě potřebujeme dotáhnout
 

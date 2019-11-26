@@ -19,7 +19,7 @@ Splácíme technologický dluh a nejsme u konce. Polovina frontendu stále běž
 
 Jasně, jde to dle plánu, nejprve zatemovat byznys logiku v mikroservisách a následně přeskládat data na menší hromady. Výměna dat mezi mikroservisama je ten největší „challenge“. Chceme tvořit robustní služby, které ustojí kdejaké klopýtnutí.
 
-A tohle nám zatím moc nejde, stále máme mikrofrontendy příliš fragilní. Zpomalení některých backendů teď vyvolá rachot jak, když hodíte sifonovou láhev do vany.
+A tohle nám zatím moc nejde, stále máme mikrofrontendy příliš fragilní. Zpomalení některých backendů teď vyvolá rachot, jako když hodíte sifonovou láhev do vany.
 
 Keep it simple. Někde stačí synchronní volání, api cally mezi službama. Naopak někde je potřeba mít kvůli rychlosti agregovaná data blízko frontendů, datové fronty a obecně CQRS architektura. Zkrátka, je to cesta. Velmi podobná cesta jako pospojovat datové služby napříč několika datacentry v Evropě. Tedy cvičíme na novou platformu nasazenou napříč několika clustery.
 

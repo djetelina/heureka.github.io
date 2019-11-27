@@ -7,9 +7,16 @@ author: Vít Bartůněk
 tags: architektura OnePlatform MěnímeHeureku 
 categories: [blog]
 imageUrl: /assets/cloud-nebo-on-premise/thumb.png
+excerpt_separator: <!--more-->
 ---
 
-Kdepak rozkaz, ale cíl zní jasně. Spojit tři srovnávače fungující v 9 evropských zemích na jednu platformu. Vyvíjet jeden produkt pro všechny. Jenže jak k tomu dojdeme?<br><br>Náš šéf má jednu skvělou vlastnost. Dokáže se ptát a naslouchat, má zkrátka zájem o názory druhých. Máme tedy svobodu vybrat si na jakém projektu a s kým budeme spolupracovat a jaké nástroje/technologie k tomu vybereme. To je výhodné pro obě strany. Díky tomuto přístupu jsme motivovaní dojít k cíli, win-win.<br><br>Ale zpátky k technologiím, je to dnes opravdu o tom, rozhodnout se mezi public cloudem, nebo provozem ve vlastním datacentru? 
+Kdepak rozkaz, ale cíl zní jasně. Spojit tři srovnávače fungující v 9 evropských zemích na jednu platformu. Vyvíjet jeden produkt pro všechny. Jenže jak k tomu dojdeme?
+
+Náš šéf má jednu skvělou vlastnost. Dokáže se ptát a naslouchat, má zkrátka zájem o názory druhých. Máme tedy svobodu vybrat si na jakém projektu a s kým budeme spolupracovat a jaké nástroje/technologie k tomu vybereme. To je výhodné pro obě strany. Díky tomuto přístupu jsme motivovaní dojít k cíli, win-win.
+
+Ale zpátky k technologiím, je to dnes opravdu o tom, rozhodnout se mezi public cloudem, nebo provozem ve vlastním datacentru? 
+
+<!--more-->
 
 ## Mezitím na domácím hřišti
 

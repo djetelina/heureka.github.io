@@ -2,7 +2,7 @@
 layout: post
 title: "Rozkaz (ne)zněl jasně: Budeme Heureku provozovat v Cloudu, nebo si postavíme vlastní on-premise řešení přes několik datacenter?"
 permalink: /cloud-nebo-on-premise/
-date: 2019-11-25 10:36:00 +0200
+date: 2019-12-02 8:40:00 +0200
 author: Vít Bartůněk
 tags: architektura OnePlatform MěnímeHeureku 
 categories: [blog]

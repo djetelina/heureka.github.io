@@ -2,7 +2,7 @@
 layout: post
 title: "#MěnímeHeureku: K autonomním týmům v produktu a vývoji přidáváme Tribe Leady"
 permalink: /k-autonomnim-tymum-pridavame-tribe-leadery/
-date: 2019-12-09 8:40:00 +0200
+date: 2019-12-16 10:21:11 +0200
 author: Lukáš Putna
 tags: OnePlatform MěnímeHeureku 
 categories: [blog]

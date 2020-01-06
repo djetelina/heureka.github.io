@@ -2,7 +2,7 @@
 layout: post
 title: "První kroky sdíleného katalogu jsme plánovali v Maďarsku"
 permalink: /prvni-kroky-sdileneho-katalogu-jsme-planovali-v-madarsku/
-date: 2019-12-11 17:30:00 +0200
+date: 2020-01-06 9:02:00 +0200
 author: Ondřej Walter
 tags: OnePlatform MěnímeHeureku OneCatalogue
 categories: [blog]

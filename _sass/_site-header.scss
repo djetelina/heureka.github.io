@@ -10,6 +10,10 @@
     background-color: $background-color-header;
 }
 
+@media only screen and (min-resolution: 2dppx) {
+  	background-image: url('/img/header-v3-retina.png');  	
+}	
+
 .site-header__a {
     display: block;
     width: 100%;

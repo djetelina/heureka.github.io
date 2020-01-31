@@ -213,5 +213,5 @@ fatálního problému. Závěr z post mortem analýzy výstižně popisuje celou
 > nastal.
 
 [as]: https://apps.db.ripe.net/search/lookup.html?source=ripe&key=AS59871&type=aut-num
-[nexus]: http://www.cisco.com/c/en/us/products/switches/nexus-5596t-switch/index.html
+[nexus]: https://www.cisco.com/c/en/us/products/switches/nexus-5596t-switch/index.html
 [gre]: https://en.wikipedia.org/wiki/Generic_Routing_Encapsulation

@@ -40,7 +40,7 @@ Abyste se neztratili ve světě mikroslužeb, potřebujete mapu. Sitemapy, ale u
 dokumentace. Jednu moc hezky zpracovanou [mapu](https://www.youtube.com/watch?v=gCOg18R6pdQ) ukázal Mike Amundsen. 
 Mapa obsahovala lokace jako _Ruins of Monolithia_, _Fields of Purity_, _Caves of Persisius_, _Scholars of Aggregato_, 
 _Valley of the Metamorphs_ a _Sea of Discovery_. Aby byly vaše mikroslužby stabilní, je dobré využít 
-[Nygard stability patterns](http://assets.en.oreilly.com/1/event/79/Stability%20Patterns%20Presentation.pdf).
+[Nygard stability patterns](https://cdn.oreillystatic.com/en/assets/1/event/79/Stability%20Patterns%20Presentation.pdf).
 
 ## Dělat DJe je nuda, nebo ne?
 

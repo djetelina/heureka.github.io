@@ -2,13 +2,23 @@
  * Site header
  */
 .site-header {
-    height: 320px;
-
+    height: 294px;
+    background-size: 858px 294px;
     background-image: url('/img/header.png');
     background-position: center center;
     background-repeat: no-repeat;
     background-color: $background-color-header;
 }
+
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+  	background-image: url('/img/header-retina.png');  	
+}	
 
 .site-header__a {
     display: block;

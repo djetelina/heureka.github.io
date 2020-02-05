@@ -6,7 +6,7 @@ date: 2020-02-05 9:04:00 +0200
 author: Zdeněk Nešpor
 tags: seo hack security web
 categories: [blog, bezpecnost, seo]
-imageUrl: /assets/co-si-odnasime-z-heurekameetup/meetup01-02.jpg
+imageUrl: /assets/pribehy-webmasteru-rusky-spam-subdomain-hijack/duplicates-removal.jpg
 ---
 
 Běžná revize webu se občas může docela nepříjemně protáhnout. Zvlášť když zjistíte, že vám ruský hacker ukradl subdoménu blogu hostovaného na Githubu. Příběh jsme se rozhodli zveřejnit i s celým postupem opravy. Návodů, jak někomu podobným způsobem uškodit a zneužít bezpečnostní díry, totiž existuje nepřeberné množství. Oproti tomu informací k prevenci a odstranění podobných problémů jsme našli přesně nulový počet.
